@@ -18,7 +18,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:rashmikaperera330@gmail.com">
+  <a href="mailto:pedro.sales.rashmikaperera330@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/rashmika-perera-b49142291/" target="_blank">

@@ -9,9 +9,9 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **National Institute of Business Management**
+ 🌱 I am Currently Studying at **National Institute of Business Management**
 
- 💬 Ask me about **html, CSS, Python... [here](https://github.com/Rashmika20041)**
+ 💬 Ask me about **html, CSS, Python...
 
  ⚡ Fact **People weigh less if they stand at the equator than if they stand at the North or South poles.**
  

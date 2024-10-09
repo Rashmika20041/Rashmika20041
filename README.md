@@ -11,7 +11,6 @@
  
  🌱 I am Currently Studying at **National Institute of Business Management**
 
- 💬 Ask me about **html, CSS, Python...
 
  ⚡ Fact **People weigh less if they stand at the equator than if they stand at the North or South poles.**
  

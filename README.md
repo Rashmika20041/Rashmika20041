@@ -14,7 +14,7 @@
  👨‍💻 All of my projects are available at https://www.rashmikaperera.me/
 
 
- ⚡ Fact **People weigh less if they stand at the equator than if they stand at the North or South poles.**
+ ⚡ Fact **People weigh less if they stand at the equator than if they stand at the North or South poles**
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -33,19 +33,26 @@
 
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/>
+ 
 </div>
 
 <hr/>
 </hr>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmika20041&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
+</p>
+
+<hr/>
+</hr>
+
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!">
 </h3>
 
 <br/>

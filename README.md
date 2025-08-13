@@ -45,8 +45,9 @@
 <hr/>
 </hr>
 
+<h2 align="center">📈 Development Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmika20041&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmika20041&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 <hr/>

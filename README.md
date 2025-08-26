@@ -12,7 +12,7 @@
  
  🌱 I am Currently Studying at **National Institute of Business Management**
 
- 👨‍💻 All of my projects are available at https://rashmikaperera.vercel.app/
+ 👨‍💻 All of my projects are available at [Visit My Site](https://rashmikaperera.vercel.app/)
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
